@@ -9,3 +9,7 @@ let instructor = {
     console.log("Hi, I'm Menawer");
   },
 };
+
+console.png (moh)
+
+
